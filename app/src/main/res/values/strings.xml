@@ -1,0 +1,104 @@
+<resources>
+    <string name="app_name">Traders Complaints System</string>
+    <string name="profileFragmentTitle">User Identification</string>
+    <string name="checkFragmentTitle">Checking Your Identification</string>
+    <string name="complaintFragmentTitle">Record Complaint</string>
+
+    <string name="lan_en">ENGLISH</string>
+    <string name="lan_fr">FRANCAIS</string>
+    <string name="lan_kin">KINYARWANA</string>
+    <string name="lan_sw">KISWAHILI</string>
+
+    <string name="btn_check">Check</string>
+    <string name="btn_submit">Submit</string>
+    <string name="nid">Nation ID/Passport Number</string>
+    <string name="issueCategory">Issue Category</string>
+    <string name="issueCategorySelect">Select Issue Category</string>
+    <string name="issue">Issue</string>
+    <string name="issueSelect">Select Issue</string>
+    <string name="border">Border</string>
+    <string name="borderSelect">Select Border</string>
+    <string name="comment">Any other Comment</string>
+
+    <string name="firstName">First Name</string>
+    <string name="lastName">Last Name</string>
+    <string name="phoneNumber">Telephone Number</string>
+    <string name="email">Email</string>
+    <string name="nationality">Nationality</string>
+    <string name="nationalitySelect">Select Nationality</string>
+    <string name="gender">I am</string>
+    <string name="genderMale">Male</string>
+    <string name="genderFemale">Female</string>
+    <string name="genderSelect">Select Gender</string>
+    <string name="yearOfBirth">Year of Birth</string>
+    <string name="yearOfBirthSelect">Selct Year of Birth</string>
+
+    <string name="settingsMenu">Languages</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="firstName_required">First Name</string>
+    <string name="lastName_required">Last Name</string>
+    <string name="phoneNumber_required">Telephone Number</string>
+    <string name="email_required">Email</string>
+    <string name="nationality_required">Nationality</string>
+
+    <string name="menu_settings">Settings</string>
+    <string name="menu_aboutus">About This Application</string>
+    <string name="home">Home</string>
+    <string name="preferred_language">Choose your Language</string>
+    <string name="synch_data">Download Data</string>
+    <string name="title_succes">SUCCESS</string>
+    <string name="title_error">ERROR</string>
+    <string name="title_warning">WARNING</string>
+    <string name="comaplaint_success">Complaint recorded successfully. You will be notified about how it got solved</string>
+    <string name="complaint_error">You plaint was not saved. Try again</string>
+    <string name="profile_success">Profile recorded successfully</string>
+    <string name="profile_error">Error recording your profile</string>
+    <string name="profile_offline">Your profile was saved offline. It will be recorded the next time you will get internet connection.</string>
+    <string name="internet_required_for_complaint_record">Internet connection is required before you can proceed to record your complaint</string>
+    <string name="title_info">INFO</string>
+    <string name="complaint_saved_offline">Your complaint was save offline, it will be record the next time you get connected on internet</string>
+    <string name="internet_required_to_record_complaint">Profile is required before you can record your complaint</string>
+    <string name="issue_required">Please select issue before you proceed</string>
+
+
+    <string-array name="issueCategories">
+        <item>Corruption</item>
+        <item>Human Trafficking</item>
+        <item>Tax</item>
+    </string-array>
+
+    <string-array name="issues">
+        <item>Bribing a Policeman</item>
+        <item>Trafficking girls under 18</item>
+        <item>Tax</item>
+    </string-array>
+
+    <string-array name="borders">
+        <item>GATUNA</item>
+        <item>PETITE BARRIERE</item>
+        <item>GRANDE BARRIERE</item>
+        <item>KANYARU</item>
+    </string-array>
+
+    <string-array name="languages">
+        <item>English</item>
+        <item>Francais</item>
+        <item>Kinyarwanda</item>
+        <item>Swahili</item>
+    </string-array>
+
+    <string-array name="nationalities">
+        <item>Rwanda</item>
+        <item>Tanzania</item>
+        <item>Uganda</item>
+        <item>Kenya</item>
+        <item>DR Congo</item>
+        <item>South Sudan</item>
+        <item>Sudan</item>
+        <item>Zambia</item>
+        <item>Malawi</item>
+        <item>Zimbabwe</item>
+    </string-array>
+
+</resources>

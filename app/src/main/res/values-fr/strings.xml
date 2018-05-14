@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">OTCMS</string>
+    <string name="profileFragmentTitle">Profile de l\'Utilisateur</string>
+    <string name="checkFragmentTitle">Identification</string>
+    <string name="complaintFragmentTitle">Enrgestrement de la plainte</string>
+
+    <string name="lan_en">ANGLAIS</string>
+    <string name="lan_fr">FRANCAIS</string>
+    <string name="lan_kin">KINYARWANA</string>
+    <string name="lan_sw">KISWAHILI</string>
+
+    <string name="btn_check">Verifier</string>
+    <string name="btn_submit">Valider</string>
+    <string name="nid">No Identité/Passeport</string>
+    <string name="issueCategory">Catégorie de la plainte</string>
+    <string name="issueCategorySelect">Séléctionnez la catégorie de la plainte</string>
+    <string name="issue">Plainte</string>
+    <string name="issueSelect">Séléctionnez la plainte</string>
+    <string name="border">Frontiere</string>
+    <string name="borderSelect">Séléctionez la frontiere</string>
+    <string name="comment">Autres Commentaires</string>
+
+    <string name="firstName">Nom</string>
+    <string name="lastName">Prénom</string>
+    <string name="phoneNumber">No de Télephone</string>
+    <string name="email">Email</string>
+    <string name="nationality">Nationalité</string>
+    <string name="nationalitySelect">Séléctionnez Nationalité</string>
+    <string name="gender">Je suis</string>
+    <string name="genderMale">Homme</string>
+    <string name="genderFemale">Femme</string>
+    <string name="genderSelect">Séléctionnez le Genre</string>
+    <string name="yearOfBirth">Année de Naissance</string>
+    <string name="yearOfBirthSelect">Séléctionnez Année de Naissance</string>
+    <string name="preferred_language">Choisissez votre langue</string>
+    <string name="menu_settings">Parametres</string>
+    <string name="menu_aboutus">A propos de cette application</string>
+    <string name="home">Accueil</string>
+
+    <string name="title_warning">ATTENTION</string>
+    <string name="comaplaint_success">Plainte enregistrée. Vous serez notifié(e) de la suite donnée a la plainte ulterieurelement</string>
+    <string name="complaint_error">Votre plainte n\'est pas enregistrée. Reessayer</string>
+    <string name="profile_success">Profile enreegistré. </string>
+    <string name="profile_error">Votre profile n\'est pas enregistré. Reessayez.</string>
+    <string name="profile_offline">Votre profile est sauvergadé offline. Il sera enregistré la prochaine fois que vous connecterez a l\'internet.</string>
+    <string name="internet_required_for_complaint_record">Connectez-vous a l\'internet pour pouvoir telecharger les données necessaires a l\'enregistrement de la plainte.</string>
+    <string name="title_info">INFO</string>
+    <string name="complaint_saved_offline">Votre plainte est sauvergadé offline. Elle sera envoyée la prochaine fois que vous connecterez a l\'internet.</string>
+    <string name="internet_required_to_record_complaint">Votre identification est requise pour pouvoir envoyer une plainte.</string>
+    <string name="issue_required">Specifiez la plainte avant de valider.</string>
+</resources>

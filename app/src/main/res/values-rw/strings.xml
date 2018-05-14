@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">OTCMS</string>
+    <string name="profileFragmentTitle">Gutanga Umwirondoro</string>
+    <string name="checkFragmentTitle">Kugenzura umwirondoro</string>
+    <string name="complaintFragmentTitle">Kumenyekanisha ikibazo wahuye nacyo</string>
+    <string name="lan_en">ENGLISH</string>
+    <string name="lan_fr">FRANCAIS</string>
+    <string name="lan_kin">KINYARWANA</string>
+    <string name="lan_sw">KISWAHILI</string>
+
+    <string name="btn_check">Genzura</string>
+    <string name="btn_submit">Emeza</string>
+    <string name="nid">No y\'Indangamuntu/Passport</string>
+    <string name="issueCategory">Icyiriro cy\'Ikibazo</string>
+    <string name="issueCategorySelect">Hitamo Icyiciro cy\'Ikibazo</string>
+    <string name="issue">Ikibazo</string>
+    <string name="issueSelect">Hitamo icyibazo</string>
+    <string name="border">Umupaka</string>
+    <string name="borderSelect">Hitamo Umupaka</string>
+    <string name="comment">Ikindi ubivugaho</string>
+
+    <string name="firstName">Izina ribanza</string>
+    <string name="lastName">Irindi zina</string>
+    <string name="phoneNumber">No ya Telephone</string>
+    <string name="email">Email</string>
+    <string name="nationality">Ubwenegihugu</string>
+    <string name="nationalitySelect">Hitamo ubwenegihugu</string>
+    <string name="gender">Ndi</string>
+    <string name="genderMale">Umugabo</string>
+    <string name="genderFemale">Umugore</string>
+    <string name="genderSelect">Hitamo Igitsina</string>
+    <string name="yearOfBirth">Umwaka w\'amavuko</string>
+    <string name="yearOfBirthSelect">Hitamo umwaka w\'amavuko</string>
+    <string name="preferred_language">Hitamo Ururimi</string>
+    <string name="menu_settings">Indimi</string>
+    <string name="menu_aboutus">Ibisobanuro kuri iyi app</string>
+    <string name="home">Intangiriro</string>
+
+    <string name="comaplaint_success">Ikirego cyanyu cyakiriwe. Tuzaboherereza ubutumwa bubamenyesha umuti twagihaye.</string>
+    <string name="complaint_error">Habaye ikibazo mu kwakira ikirego cyanyu. Mwongere mugerageze.</string>
+    <string name="profile_success">Umwirondoro wakiriwe uko bikwiye.</string>
+    <string name="profile_error">Habaye ikibazo mu kwakira umwirondoro wanyu. Mwongere mugerageze.</string>
+    <string name="profile_offline">Umwirondoro wanyu wabitse byagateganyo kuri telephone yanyu. Uzohezwa ubutaha ubwo muzaba mukoresha murandasi (internet).</string>
+    <string name="internet_required_for_complaint_record">Murandasi (internet) irakenewe kugira ngo tubashe gukurura amakuru yibanze mu gutanga amakuru/irego.</string>
+    <string name="title_info">INFO</string>
+    <string name="complaint_saved_offline">Ikirego cyany cyabitswe byagateganyo kuri telephone yanyu. Kizoherezwa ubutaha ubwo muzaba mukoresha murandasi (Internet)</string>
+    <string name="internet_required_to_record_complaint">Umwirondoro urakenewe mbere y\'uko mutanga ikirego.</string>
+    <string name="issue_required">Hitamo ikirego mbere yo kohereza.</string>
+</resources>

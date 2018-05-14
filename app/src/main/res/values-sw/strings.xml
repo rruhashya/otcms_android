@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">OTCMS</string>
+    <string name="profileFragmentTitle">Ufafanuzi wa Mtumiaji</string>
+    <string name="checkFragmentTitle">Kutambua mtumiaji</string>
+    <string name="complaintFragmentTitle">Kurekodi Malalamiko</string>
+
+    <string name="lan_en">ANGLAIS</string>
+    <string name="lan_fr">FRANCAIS</string>
+    <string name="lan_kin">KINYARWANA</string>
+    <string name="lan_sw">KISWAHILI</string>
+
+    <string name="btn_check">Kuangalia</string>
+    <string name="btn_submit">Tumia</string>
+    <string name="nid">Nambari ya Identity ou Passport</string>
+    <string name="issueCategory">Kundi ya Tatizo</string>
+    <string name="issueCategorySelect">Jamii ya Tatizo</string>
+    <string name="issue">Tatizo</string>
+    <string name="issueSelect">Tatizo</string>
+    <string name="border">Mpaka</string>
+    <string name="borderSelect">Mpaka</string>
+    <string name="comment">Maoni Mengine</string>
+
+    <string name="firstName">Jina la Kwanza</string>
+    <string name="lastName">Jina la Familia</string>
+    <string name="phoneNumber">Nambari ya Simu</string>
+    <string name="email">Email</string>
+    <string name="nationality">Utaifa</string>
+    <string name="nationalitySelect">Changua Utaifa</string>
+    <string name="gender">Niko</string>
+    <string name="genderMale">Mwanaume</string>
+    <string name="genderFemale">Mwanamke</string>
+    <string name="genderSelect">Chagua Jinsi</string>
+    <string name="yearOfBirth">Mwaka wa Kuzaliwa</string>
+    <string name="yearOfBirthSelect">Chagua Mwaka wa kuzaliwa</string>
+    <string name="preferred_language">Chagua Luga</string>
+    <string name="menu_settings">Settings</string>
+    <string name="menu_aboutus">About This Application</string>
+    <string name="home">Home</string>
+</resources>

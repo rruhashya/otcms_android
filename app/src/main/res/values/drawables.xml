@@ -1,0 +1,8 @@
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+    <item name="ic_find" type="drawable">@android:drawable/ic_menu_search</item>
+    <item name="ic_register" type="drawable">@android:drawable/ic_menu_add</item>
+    <item name="ic_settings" type="drawable">@android:drawable/ic_menu_preferences</item>
+    <item name="ic_about_easy_locate" type="drawable">@android:drawable/ic_menu_info_details</item>
+    <item name="ic_menu_share" type="drawable">@android:drawable/ic_menu_share</item>
+    <item name="ic_menu_send" type="drawable">@android:drawable/ic_menu_send</item>
+</resources>
